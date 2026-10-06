@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+My name is Arijit kar
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+In Foundation month i learn how to write pseudocode
+how to write algorithm
+how to understand problems and how to solve it
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python because it is easy to learn and i work with python before in my collage days
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a software engineer and work on real world problems
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: writing code instructions for a computer to follow. It is a way to communicate with machines and tell them what to do.
 
-Python is:
+Python is: a programming language
 
-In this track, I will learn:
+In this track, I will learn: backended development and Gen AI
