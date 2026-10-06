@@ -1,2 +1,2 @@
 #write you code here
-print("hello world")
+print("arijit is a good boy")
